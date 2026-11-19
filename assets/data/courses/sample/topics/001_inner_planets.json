@@ -1,0 +1,69 @@
+{
+  "id": "inner-planets",
+  "order": 1,
+  "section": "Inner Planets",
+  "title": "The Inner Planets",
+  "summary": "Mercury, Venus, Earth and Mars are the four rocky planets closest to the Sun. They are small and dense, with solid surfaces and few or no moons.",
+  "glossary": [
+    {
+      "term": "Terrestrial Planet",
+      "definition": "A planet made mostly of rock and metal, with a solid surface. Mercury, Venus, Earth and Mars are the Solar System's terrestrial planets.",
+      "analogy": "Like a stone you can stand on, compared with a gas giant, which is more like a cloud with no floor.",
+      "example": "A spacecraft can land on Mars because it is a terrestrial planet.",
+      "related": ["Gas Giant", "Orbit"]
+    },
+    {
+      "term": "Orbit",
+      "definition": "The curved path an object takes around a star, planet or moon, held in place by gravity.",
+      "analogy": "Like a ball on a string swung around your head: the string is gravity.",
+      "example": "Earth completes one orbit of the Sun in about 365.25 days.",
+      "related": ["Terrestrial Planet"]
+    },
+    {
+      "term": "Greenhouse Effect",
+      "definition": "The warming of a planet's surface when its atmosphere traps heat from sunlight.",
+      "example": "Venus's thick carbon-dioxide atmosphere makes it hotter than Mercury, even though Mercury is closer to the Sun.",
+      "related": []
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Which planet is closest to the Sun?",
+      "back": "Mercury",
+      "explanation": "Mercury is also the smallest planet. It has almost no atmosphere, so it can't hold on to heat at night."
+    },
+    {
+      "front": "What is the hottest planet in the Solar System?",
+      "back": "Venus",
+      "explanation": "The Greenhouse Effect from its thick atmosphere keeps Venus at around 465 °C, hotter than Mercury."
+    },
+    {
+      "front": "Why is Mars red?",
+      "back": "Iron oxide (rust) in its soil and dust."
+    },
+    {
+      "front": "How long does one Orbit of the Sun take for Earth?",
+      "back": "About 365.25 days",
+      "explanation": "The extra quarter day is why a leap day is added every four years."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which of these is a Terrestrial Planet?",
+      "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+      "answerIndex": 0,
+      "explanation": "Mars is rocky with a solid surface. The other three are giant planets made mostly of gas or ice."
+    },
+    {
+      "question": "Why is Venus hotter than Mercury?",
+      "options": [
+        "Its thick atmosphere traps heat",
+        "It is closer to the Sun",
+        "It has active volcanoes on every continent",
+        "It spins faster"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mercury is closer to the Sun, but Venus's dense carbon-dioxide atmosphere causes a runaway greenhouse effect."
+    }
+  ]
+}

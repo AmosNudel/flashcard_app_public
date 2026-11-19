@@ -1,0 +1,66 @@
+{
+  "id": "outer-planets",
+  "order": 2,
+  "section": "Outer Planets",
+  "title": "The Outer Planets",
+  "summary": "Jupiter, Saturn, Uranus and Neptune are the giant planets beyond the asteroid belt. They have no solid surface, many moons, and ring systems.",
+  "glossary": [
+    {
+      "term": "Gas Giant",
+      "definition": "A large planet made mostly of hydrogen and helium, with no solid surface. Jupiter and Saturn are gas giants.",
+      "analogy": "Like a huge ball of cloud that gets thicker and hotter the deeper you go.",
+      "related": ["Ice Giant", "Terrestrial Planet"]
+    },
+    {
+      "term": "Ice Giant",
+      "definition": "A giant planet made largely of water, ammonia and methane ices above a small rocky core. Uranus and Neptune are ice giants.",
+      "related": ["Gas Giant"]
+    },
+    {
+      "term": "Asteroid Belt",
+      "definition": "A ring of rocky bodies orbiting the Sun between Mars and Jupiter. It separates the inner planets from the outer planets.",
+      "supplement": "Despite how it looks in films, the belt is mostly empty space; spacecraft cross it without trouble.",
+      "related": ["Orbit"]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What is the largest planet in the Solar System?",
+      "back": "Jupiter",
+      "explanation": "Jupiter is a Gas Giant with more mass than all the other planets combined."
+    },
+    {
+      "front": "Which planet is famous for its bright rings?",
+      "back": "Saturn",
+      "explanation": "All four outer planets have rings, but Saturn's are by far the largest and brightest."
+    },
+    {
+      "front": "What separates the inner planets from the outer planets?",
+      "back": "The Asteroid Belt"
+    },
+    {
+      "front": "Which planet rotates on its side?",
+      "back": "Uranus",
+      "explanation": "Its axis is tilted about 98°, probably from a huge collision long ago."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which planet is an Ice Giant?",
+      "options": ["Neptune", "Jupiter", "Saturn", "Mercury"],
+      "answerIndex": 0,
+      "explanation": "Uranus and Neptune are ice giants. Jupiter and Saturn are gas giants, and Mercury is rocky."
+    },
+    {
+      "question": "Where is the Asteroid Belt?",
+      "options": [
+        "Between Mars and Jupiter",
+        "Between Earth and Mars",
+        "Beyond Neptune",
+        "Between Venus and Earth"
+      ],
+      "answerIndex": 0,
+      "explanation": "The belt orbits the Sun between Mars and Jupiter. The icy region beyond Neptune is the Kuiper Belt."
+    }
+  ]
+}

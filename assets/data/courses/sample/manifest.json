@@ -1,0 +1,11 @@
+{
+  "course": "Sample Deck: The Solar System",
+  "sections": [
+    "Inner Planets",
+    "Outer Planets"
+  ],
+  "topics": [
+    "topics/001_inner_planets.json",
+    "topics/002_outer_planets.json"
+  ]
+}
